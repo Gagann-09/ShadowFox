@@ -1,0 +1,5 @@
+{
+  "name": "Predictive Keyboard AI",
+  "description": "An intelligent autocorrect keyboard that uses Gemini to predict and suggest the next word in a sentence, enhancing typing speed and accuracy.",
+  "requestFramePermissions": []
+}
